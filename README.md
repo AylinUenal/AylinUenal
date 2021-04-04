@@ -11,7 +11,7 @@
   <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70">
   
   
-  <img src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" width="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="70">
 
 
 
