@@ -20,6 +20,6 @@ I'm Aylin, a Berliner with an international soul :herb:
 
 ## What I am currently learning:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> 
+<img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150">
 
