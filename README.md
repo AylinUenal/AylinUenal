@@ -2,8 +2,9 @@
 
 **I'm Aylin, a Berliner with an international soul :herb:** 
 - [x] After more than 8 years of working experience in and around tech, I fulfilled my dream of becoming a full-stack developer.
-- [x] During my previous jobs, I gained strong skills in critical thinking and creative problem-solving.
 - [x] As a former journalist, consultant, and project manager, attention to detail, continuous learning, and team collaboration are natural to me.
+- [x] During those previous jobs, I gained strong skills in critical thinking and creative problem-solving.
+
 
 ## My tech stack:
 
