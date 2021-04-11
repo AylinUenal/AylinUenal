@@ -21,6 +21,9 @@
 - building RESTful API
 - working with API design and documentation
 - testing frameworks: Jasmine, Mocha
+- responsive webdesign
+- using Figma to execute UX/UI design
+- pair programming and team projects
 
 
 ## What I am currently learning:
