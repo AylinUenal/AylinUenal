@@ -16,9 +16,14 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="70">
 
+**Experience with**
+- building RESTful API, 
+- working with API design and documentation
+- testing frameworks: Jasmine, Mocha
 
 
 ## What I am currently learning:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150">
+  <img src="https://pt.wikipedia.org/wiki/Amazon_Web_Services#/media/Ficheiro:Amazon_Web_Services_Logo.svg" width="120">
 
