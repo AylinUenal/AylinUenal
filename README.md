@@ -21,6 +21,7 @@
 - building RESTful API
 - working with API design and documentation
 - testing frameworks: Jasmine, Mocha
+- Object Oriented Programming
 - responsive webdesign
 - using Figma to execute UX/UI design
 - pair programming and team projects
