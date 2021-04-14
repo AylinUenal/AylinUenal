@@ -18,13 +18,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="70">
 
 **Experience with**
+- creating and deploying websites 
 - building RESTful API
 - working with API design and documentation
 - testing frameworks: Jasmine, Mocha
-- Object Oriented Programming
 - responsive webdesign
 - using Figma to execute UX/UI design
 - pair programming and team projects
+- Object Oriented Programming
+- DOM manipulation
+
+
+![image](https://user-images.githubusercontent.com/74965132/114706699-968d6180-9d29-11eb-9c47-68669fc51d58.png)
 
 
 ## What I am currently learning:
