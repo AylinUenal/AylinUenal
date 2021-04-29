@@ -29,9 +29,6 @@
 - DOM manipulation
 
 
-![image](https://user-images.githubusercontent.com/74965132/114706699-968d6180-9d29-11eb-9c47-68669fc51d58.png)
-
-
 ## What I am currently learning:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
