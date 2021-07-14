@@ -13,24 +13,28 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" width="140"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="100"> &nbsp;&nbsp;
-  <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70">
+  <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70"> &nbsp;&nbsp;
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="70">
 
-**Experience with**
-- creating and deploying websites 
+## Experience with:
+- deployment 
 - building RESTful API
 - working with API design and documentation
 - testing frameworks: Jasmine, Mocha
-- responsive webdesign
+- responsive design and mobile first approach
 - using Figma to execute UX/UI design
 - pair programming and team projects
 - Object Oriented Programming
 - DOM manipulation
 
-
-## What I am currently learning:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110">
+  
+## What I am currently learning:
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+
+
 
