@@ -16,8 +16,6 @@
   <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70"> &nbsp;&nbsp;
   <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="70">
 
 ## Experience with:
 - deployment 
@@ -31,8 +29,8 @@
 - DOM manipulation
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110">
-<img src=" https://easywebsitecare.com/wordpress/wp-content/uploads/2017/12/drupal-logo-big.png" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://easywebsitecare.com/wordpress/wp-content/uploads/2017/12/drupal-logo-big.png" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
   
  
 ## What I am currently learning:
