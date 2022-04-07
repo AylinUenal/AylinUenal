@@ -16,26 +16,33 @@
   <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70"> &nbsp;&nbsp;
   <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
 
-## Experience with:
-- deployment 
-- building RESTful API
+## Full-stack experience:
+- building web apps developing both frontend and backend
+- building RESTful APIs
+- workflow using git and GitHub/GitLab
+- working with Docker
+- Knowledge of SEO principles
+- working with various content management systems
 - working with API design and documentation
 - testing frameworks: Jasmine, Mocha
-- responsive design and mobile first approach
-- using Figma to execute UX/UI design
-- pair programming and team projects
+- familiar with deployment process
 - Object Oriented Programming
-- DOM manipulation
+- mobile first and responsive web design
+- using Figma to execute UX/UI design
+- pair programming, regular code reviews, and collaborative team projects
+- freelance projects with Hugo (Go) and AWS S3 hosting
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://easywebsitecare.com/wordpress/wp-content/uploads/2017/12/drupal-logo-big.png" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Drupal-wordmark.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
   
  
 ## What I am currently learning:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
+
 
 
 
