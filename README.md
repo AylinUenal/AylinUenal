@@ -1,9 +1,9 @@
 # Welcome! :wave:
 
 **I'm Aylin, a Berliner with an international soul :herb:** 
-- [x] After more than 8 years of working experience in and around tech, I fulfilled my dream of becoming a full-stack developer.
-- [x] As a former journalist, consultant, and project manager, attention to detail, continuous learning, and team collaboration are natural to me.
-- [x] During those previous jobs, I gained strong skills in critical thinking and creative problem-solving.
+- [x] After more than 8 years of working experience in tech as a consultant and project manager, I fulfilled my dream of becoming a full-stack developer.
+- [x] Attention to detail, continuous learning, and team collaboration are natural to me.
+- [x] Strong skills in critical thinking and creative problem-solving.
 
 
 ## My tech stack:
@@ -12,7 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" width="140"> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="100"> &nbsp;&nbsp;
   <img src="http://blog.comperiosearch.com/wp-content/uploads/2012/09/handlebars_logo.png" width="70"> &nbsp;&nbsp;
   <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="150"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -34,10 +33,11 @@
 - pair programming, regular code reviews, and collaborative team projects
 - freelance projects with Hugo (Go) and AWS S3 hosting
 
+## Some experience with:
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Drupal-wordmark.svg" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; 
-  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="100"> &nbsp;&nbsp;
  
 ## What I am currently learning:
 
